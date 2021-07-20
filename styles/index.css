@@ -33,8 +33,7 @@ a {
 }
 
 a:hover {
-    color:#aaa;
-    transition: color 0.1s;
+    text-decoration:underline;
 }
 
 nav {
