@@ -1,2 +1,2 @@
 # google-homepage
-Google homepage assignment for The Odin Project
+Google homepage and google search results assignment for The Odin Project
